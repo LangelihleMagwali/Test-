@@ -1,2 +1,4 @@
-NEW Added branch
+##NEW Added branch
+
+This is the second branch
 
